@@ -1,0 +1,7 @@
+Model,ROUGE-1,ROUGE-2,ROUGE-L,Readability
+1. Extractive (LexRank),0.3905,0.1604,0.2291,26.5
+2. T5-Small (Original),0.1942,0.0679,0.1371,17.2
+3. T5-Small (Optimized),0.2367,0.0704,0.1522,31.5
+4. SciFive (Medical T5),0.2202,0.0474,0.1322,50.8
+5. BioBART (Medical),0.3201,0.0947,0.1754,22.2
+6. Hybrid (LexRank+BioBART),0.4269,0.1654,0.2214,34.9
