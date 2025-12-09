@@ -1,0 +1,21 @@
+Patient ID: 45M, history of HTN, DM type 2, from home.
+Date: Dec 7, 2025 
+Subjective
+The patient is a 45-year-old male who presents to the ED with acute onset dyspnea and precordial chest pain for the past 2 hours. He describes the pain as substernal, radiating to his left arm, and rates it 8/10 in intensity. He reports diaphoresis and slight nausea but denies any vomiting or syncope. He ran out of his blood pressure medication (antihypertensive) two days ago and has not refilled it. He reports compliance with his oral hypoglycemic agents. 
+Objective
+Vital Signs: BP 160/94 mmHg, HR 110 bpm, RR 24 breaths/min, O2 Sat 90% on room air, Temp 98.6°F.
+Physical Exam:
+CV: Tachycardic, regular rhythm, no murmurs noted. PMI displaced laterally.
+Pulm: Mild tachypnea, decreased breath sounds at bases bilaterally, with fine rales noted on auscultation. No wheezing.
+Ext: +2 edema bilaterally in lower extremities.
+Labs/Diagnostics: ECG/EKG shows ST elevation in anterior leads. Initial troponin elevated. Stat CXR reveals cardiomegaly and pulmonary edema. 
+Assessment
+45-year-old male with new-onset myocardial infarction (MI), likely due to non-compliance with antihypertensive therapy, complicated by acute congestive heart failure (CHF). 
+Plan
+Admit to the CCU for close monitoring.
+Start on IV nitroglycerin and heparin protocol.
+Obtain stat Cardiology consult for potential cardiac catheterization/PCI.
+Telemetry monitoring initiated.
+Diet: Low sodium, diabetic diet.
+Medication reconciliation: Restart oral antihypertensive medications prior to discharge.
+Patient education provided regarding medication compliance and the importance of lifestyle modifications
