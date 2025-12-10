@@ -1,7 +1,7 @@
 📖 Overview
 Clinical notes are essential for patient care but often contain technical language that limits patient comprehension. This application automatically condenses complex biomedical text into concise, accessible summaries using a hybrid NLP approach.
-🎯 Key Features
 
+🎯 Key Features
 👤 Patient Mode: Upload or paste medical notes and receive easy-to-understand summaries
 ⚕️ Healthcare Provider Mode: Contribute medical terms and their simple explanations to improve the dictionary
 🤖 AI-Powered: Hybrid LexRank + BioBART model achieving 0.40 ROUGE-1 score
